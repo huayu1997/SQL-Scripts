@@ -1,0 +1,1 @@
+SELECT crdate AS SQLStarted FROM master..sysdatabases WHERE name = 'tempdb'

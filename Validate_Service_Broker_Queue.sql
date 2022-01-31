@@ -1,0 +1,1 @@
+Select * from sys.dm_broker_activated_tasks
